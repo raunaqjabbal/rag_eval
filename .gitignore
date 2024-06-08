@@ -1,2 +1,4 @@
 .rag
-main.ipynb
+Phi-3-mini-4k-instruct-q4.gguf
+chroma_db/
+.huggingface/
